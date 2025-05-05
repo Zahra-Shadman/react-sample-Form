@@ -1,9 +1,10 @@
+import { SignUp } from "./components/signUpForm"
 
 function App() {
 
   return (
-    <div className="underline">
-    hello
+    <div>
+    <SignUp />
     </div>
   )
 }
